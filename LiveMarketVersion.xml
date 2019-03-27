@@ -1,0 +1,30 @@
+<MarketVersion>
+  <Inspection Report="false" />
+  <GooglePlay>
+    <Application URL="https://play.google.com/store/apps/details?id=com.nexon.nsc.maplem">
+      <Release ClientVersion="1.37.770" LoginServerIP="nxm-maplem-login.nexon.com" LoginServerPort="7500" NextVersionCheck="false" ResourceURL="http://nxm-maplem.akamaized.net/GooglePlay/137_605Q/" />
+	  <Release ClientVersion="1.38.790" LoginServerIP="ec2-52-198-19-183.ap-northeast-1.compute.amazonaws.com" LoginServerPort="7500" NextVersionCheck="false" ResourceURL="http://nxm-maplem.akamaized.net/GooglePlay/138_620Q/" />
+	  <Release ClientVersion="1.38.791" LoginServerIP="ec2-52-198-19-183.ap-northeast-1.compute.amazonaws.com" LoginServerPort="7500" NextVersionCheck="false" ResourceURL="http://nxm-maplem.akamaized.net/GooglePlay/138_620Q/" />
+    </Application>
+  </GooglePlay>
+  <AppStore>
+    <Application URL="https://itunes.apple.com/kr/app/id1133463693">
+      <Release ClientVersion="1.37.770" LoginServerIP="nxm-maplem-login.nexon.com" LoginServerPort="7500" NextVersionCheck="false" ResourceURL="http://nxm-maplem.akamaized.net/AppStore/137_605Q/" />
+	  <Release ClientVersion="1.38.790" LoginServerIP="raw.githubusercontent.com" LoginServerPort="7500" NextVersionCheck="false" ResourceURL="" />
+    </Application>
+  </AppStore>
+  <Unity>
+    <Application URL="">
+      <Release ClientVersion="0.0.1" LoginServerIP="nxm-maplem-login.nexon.com" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/GooglePlay/130_339Q/" MaxLoadPerSec="256" NextVersionCheck="false" DevOption="true" Report="false" TapjoyDebug="false" AdjustProduction="true" UseImgDataCsv="false" AddVAT="true" />
+    </Application>
+  </Unity>
+  <ServerWorld>
+    <Group Index="1" Sort="5" Open="true" Inspect="false" New="false" />
+    <Group Index="2" Sort="4" Open="true" Inspect="false" New="false" />
+    <Group Index="3" Sort="3" Open="true" Inspect="false" New="false" />
+    <Group Index="4" Sort="2" Open="true" Inspect="false" New="false" />
+    <Group Index="5" Sort="1" Open="true" Inspect="false" New="false" />
+    <Group Index="6" Sort="0" Open="true" Inspect="false" New="false" />
+    <Group Index="7" Sort="6" Open="true" Inspect="false" New="false" />
+  </ServerWorld>
+</MarketVersion>
